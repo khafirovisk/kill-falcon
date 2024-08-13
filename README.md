@@ -21,6 +21,8 @@ Este script PowerShell foi desenvolvido para realizar consultas em registros do 
 
 1. **Baixe o script .ps1**:
 
+https://github.com/khafirovisk/kill-falcon/archive/refs/heads/main.zip
+
 3. **Configurar o Script**:
     - Atualize as variáveis `clientID` e `clientSecret` com os valores corretos.
     - Substitua `"REPOSITÓRIO PÚBLICO"` para seu reposítório público de instaladores.
