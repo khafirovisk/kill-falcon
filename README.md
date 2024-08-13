@@ -6,7 +6,7 @@ Este script PowerShell foi desenvolvido para realizar consultas em registros do 
 
 ## Funcionalidades
 
-- **Consulta de Registro**: Executa uma consulta no registro do Windows para buscar um valor específico.
+- **Consulta de Registro**: Executa uma consulta no registro do Windows para buscar o `devide_id`.
 - **Autenticação via API**: Obtém um token de autorização a partir de uma API usando `client_id` e `client_secret`.
 - **Revelação de Token de Desinstalação**: Faz uma requisição POST para obter um token de desinstalação para um dispositivo específico.
 - **Download e Execução de Ferramenta**: Baixa uma ferramenta de desinstalação e a executa silenciosamente usando o token de desinstalação obtido.
