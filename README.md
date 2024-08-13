@@ -1,6 +1,6 @@
 # kill-falcon
 
-# PowerShell Script para Manipulação de Registros e Automação de Comandos em APIs
+# Remoção CrowdStrike
 
 Este script PowerShell foi desenvolvido para realizar consultas em registros do Windows, obter um token de autorização via API, revelar um token de desinstalação e, em seguida, executar um processo automatizado para desinstalar um agente específico usando o token obtido.
 
