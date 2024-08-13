@@ -45,5 +45,3 @@ Este script PowerShell foi desenvolvido para realizar consultas em registros do 
 ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
-
-## Licença
